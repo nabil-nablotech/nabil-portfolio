@@ -17,7 +17,7 @@ export const educationData = [
     },
     {
         id: 3,
-        institution: 'Ethiopian Internation School - Riyadh',
+        institution: 'Ethiopian International School - Riyadh',
         course: 'Kindergarten - Highschool',
         startYear: 'Sep 2003',
         endYear: 'Jun 2017',
