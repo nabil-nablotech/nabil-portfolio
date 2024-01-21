@@ -1,34 +1,73 @@
-export const experienceData = [
-    {
+export const experienceData = {
+  title: { en: "Experience", it: "Esperienza" },
+  history: {
+    en: [
+      {
         id: 1,
-        company: 'YOT Technology',
-        jobtitle: 'Remote Software Engineer',
-        startYear: 'Oct 2022',
-        endYear: 'Present',
-        location: 'United States, Maryland',
-    },
-    {
+        company: "YOT Technology",
+        jobtitle: "Remote Software Engineer",
+        startYear: "Oct 2022",
+        endYear: "Nov 2023",
+        location: "United States, Maryland",
+      },
+      {
         id: 2,
-        company: 'Toplink Technology PLC',
-        jobtitle: 'Frontend Developer',
-        startYear: 'Nov 2022',
-        endYear: 'Jan 2023',
-        location: 'Ethiopia, Addis Ababa',
-    },
-    {
+        company: "Toplink Technology PLC",
+        jobtitle: "Frontend Developer",
+        startYear: "Nov 2022",
+        endYear: "Jan 2023",
+        location: "Ethiopia, Addis Ababa",
+      },
+      {
         id: 3,
-        company: 'Perago Information Systems PLC',
-        jobtitle: 'Frontend Developer',
-        startYear: 'Nov 2021',
-        endYear: 'Oct 2022',
-        location: 'Ethiopia, Addis Ababa',
-    },
-    {
+        company: "Perago Information Systems PLC",
+        jobtitle: "Frontend Developer",
+        startYear: "Nov 2021",
+        endYear: "Oct 2022",
+        location: "Ethiopia, Addis Ababa",
+      },
+      {
         id: 4,
-        company: 'Perago Information Systems PLC',
-        jobtitle: 'Intern Frontend Developer',
-        startYear: 'Jul 2021',
-        endYear: 'Oct 2021',
-        location: 'Ethiopia, Addis Ababa',
-    },
-]
+        company: "Perago Information Systems PLC",
+        jobtitle: "Intern Frontend Developer",
+        startYear: "Jul 2021",
+        endYear: "Oct 2021",
+        location: "Ethiopia, Addis Ababa",
+      },
+    ],
+    it: [
+      {
+        id: 1,
+        company: "YOT Technology",
+        jobtitle: "Ingegnere Software Remoto",
+        startYear: "Ott 2022",
+        endYear: "Nov 2023",
+        location: "Stati Uniti, Maryland",
+      },
+      {
+        id: 2,
+        company: "Toplink Technology PLC",
+        jobtitle: "Sviluppatore Front End",
+        startYear: "Nov 2022",
+        endYear: "Gen 2023",
+        location: "Etiopia, Addis Abeba",
+      },
+      {
+        id: 3,
+        company: "Perago Information Systems PLC",
+        jobtitle: "Sviluppatore Front End",
+        startYear: "Nov 2021",
+        endYear: "Ott 2022",
+        location: "Etiopia, Addis Abeba",
+      },
+      {
+        id: 4,
+        company: "Perago Information Systems PLC",
+        jobtitle: "Stage Sviluppatore Front End",
+        startYear: "Lug 2021",
+        endYear: "Ott 2021",
+        location: "Etiopia, Addis Abeba",
+      },
+    ],
+  },
+};
