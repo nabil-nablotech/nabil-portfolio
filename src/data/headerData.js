@@ -15,8 +15,8 @@ export const headerData = {
   },
   image: "/nabil.jpg",
   resumePdf: {
-    en: "https://docs.google.com/document/d/1P9kUA559iIKZuhBkNInjTOoANLIORpapsP0D78nQBZE/edit?usp=sharing",
-    it: "https://docs.google.com/document/d/1FwFI9N1wAhs6CTTax3Anj6eLrGya8H4DiesTn249Qoc/edit?usp=sharing",
+    en: "https://drive.google.com/file/d/1zeFhSawo4kV7rJUhu_qS3Hm08e_2dUPj/view?usp=sharing",
+    it: "https://drive.google.com/file/d/1HJYEQAMeTzXbJ1Vmwawhj5-upTd06CDA/view?usp=sharing",
   },
   languages: [
     { code: "en", name: "English" },
