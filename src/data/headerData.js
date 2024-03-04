@@ -2,10 +2,10 @@ export const headerData = {
   name: "Nabil Mohammed",
   title: "Hello! I am",
   strings: {
-    en: ["Backend Developer", "Frontend Developer", "Fullstack Developer"],
+    en: ["Frontend Developer", "Backend Developer", "Fullstack Developer"],
     it: [
-      "Sviluppatore Backend",
       "Sviluppatore Frontend",
+      "Sviluppatore Backend",
       "Sviluppatore Full-stack",
     ],
   },
@@ -15,7 +15,7 @@ export const headerData = {
   },
   image: "/nabil.jpg",
   resumePdf: {
-    en: "https://drive.google.com/file/d/1zeFhSawo4kV7rJUhu_qS3Hm08e_2dUPj/view?usp=sharing",
+    en: "https://docs.google.com/document/d/1P9kUA559iIKZuhBkNInjTOoANLIORpapsP0D78nQBZE/edit?usp=sharing",
     it: "https://drive.google.com/file/d/1HJYEQAMeTzXbJ1Vmwawhj5-upTd06CDA/view?usp=sharing",
   },
   languages: [

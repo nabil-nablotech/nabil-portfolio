@@ -9,7 +9,7 @@ import "./about.css";
 function About() {
   const { theme, language } = useContext(ThemeContext);
   return (
-    <div style={{ backgroundColor: theme.secondary }}>
+    <div className="about-container" style={{ backgroundColor: theme.secondary }}>
       <Container className="about" id="about">
         <div className="line-styling">
           <div

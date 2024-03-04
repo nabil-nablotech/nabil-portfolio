@@ -145,3 +145,9 @@
     width: 200px;
   }
 }
+
+@media screen and (max-width: 380px) {
+  .about-container{
+    padding-top: 30%;
+  }
+}

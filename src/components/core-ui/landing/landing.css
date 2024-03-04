@@ -228,13 +228,14 @@
 
 @media (max-width: 500px) {
   .lcr--content {
-    margin-top: 35%;
+    margin-top: 65%;
+    margin-bottom: 40%;
   }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 380px) {
   .lcr--content {
-    margin-top: 60%;
+    margin-top: 120%;
   }
 }
 

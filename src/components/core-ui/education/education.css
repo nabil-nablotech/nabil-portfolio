@@ -172,4 +172,29 @@
   .education-description>h1 {
     font-size: 2.5rem;
   }
+
+  .education-card {
+    height: auto;
+  }
+
+  .education-details>h6 {
+    font-size: 0.85rem;
+    margin-bottom: 0.45rem;
+  }
+
+  .education-details>h4 {
+    font-size: 1.2rem;
+    line-height: 126%;
+  }
+
+  .education-details>h5 {
+    font-size: 0.95rem;
+    line-height: 126%;
+    padding: 5px 0;
+  }
+
+  .education-details>h6 {
+    font-size: 0.80rem;
+    margin-bottom: 0.45rem;
+  }
 }
